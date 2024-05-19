@@ -10,5 +10,6 @@ awscli
 streamlit
 pypdf
 faiss-cpu
+awscli
 
 -e .
