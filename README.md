@@ -1,3 +1,2 @@
-# Build-and-deploy-RAG-in-AWS-Lambda-ECR
-My first LLMOPs deployment project
-conda create --name sunny python=3.10
+# Deploying RAG APPLICATION using AWS(AWS lambda,AWS ECR), Langchain, Huggingface, Docker
+
